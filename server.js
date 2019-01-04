@@ -35,6 +35,27 @@ var characters = [
     role: "Jedi Master",
     age: 55,
     forcePoints: 1350
+  },
+  {
+    routeName: "princessleia",
+    name: "Princess Leia",
+    role: "Badass Extraordinaire",
+    age: 23,
+    forcePoints: 2500
+  },
+  {
+    routeName: "chewbacca",
+    name: "Chewy",
+    role: "Beasty Pilot",
+    age: 300,
+    forcePoints: 500
+  },
+  {
+    routeName: "hansolo",
+    name: "Han Solo",
+    role: "Rascal Pilot",
+    age: 27,
+    forcePoints: 600
   }
 ];
 
